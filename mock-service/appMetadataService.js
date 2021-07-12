@@ -5,7 +5,7 @@ function getAllApplicationMetadata () {
       const totalApps = 10;
       const appMetadataList = [];
       for (let i=0; i<totalApps; i++) {
-        const team = (i % 3 == 0) ? 'Developer Experience' : 'Delivery Platform';
+        const team = (i % 3 == 0) ? 'Developer_Experience' : 'Delivery_Platform';
         appMetadataList.push({
           id: i,
           appName: `app_${i}`,

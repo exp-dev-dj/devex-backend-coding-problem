@@ -1,7 +1,6 @@
 const q1 = require('./interview-question/q1');
 
-
-q1.getAllApplicationNamesSortedByID()
+q1.getAllApplicationNamesGroupedByTeam()
   .then((data) => {
     console.log(data);
   })
