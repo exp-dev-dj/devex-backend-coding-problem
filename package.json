@@ -1,0 +1,19 @@
+{
+  "name": "devex-backend-coding-problem",
+  "version": "1.0.0",
+  "description": "Devex Backend Interview Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exp-dev-dj/devex-backend-coding-problem.git"
+  },
+  "author": "David Ji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exp-dev-dj/devex-backend-coding-problem/issues"
+  },
+  "homepage": "https://github.com/exp-dev-dj/devex-backend-coding-problem#readme"
+}
