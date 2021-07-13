@@ -27,6 +27,8 @@ if you call getAllApplicationMetadataWithPagination(10, 10), it will return some
   { id: 19, appName: "app_19", team: "Delivery_Platform" }
 ]
 
+getAllApplicationMetadataWithPagination will return an empty list once you've exhausted all of its values.
+
 Besides this difference, everything else stays pretty much the same.
 
 Note, if your first try is to use the iterative approach, that's okay.
